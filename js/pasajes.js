@@ -29,7 +29,7 @@ var app = new function() {
       hora: new Date(2022, 4, 28, 4, 30),
       costobase: 55000,
       costoneto: 0,
-      reservas: [1078]
+      reservas: []
     };
     var vuelo5 = {
       origen: "Bogotá",

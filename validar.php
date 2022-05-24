@@ -16,7 +16,7 @@ $resultado2= isset($filas);
 
 
 if ($filas['id_cargo']==1){ //Empleado
-    header("location:admin.php");
+    header("location:empleado.html");
 
 }else
 if($filas['id_cargo']==2){ //cliente
